@@ -1,5 +1,11 @@
 # Genetik Algoritma ile Nakliye Rotası Optimizasyonu
 
+
+**Hazırlayan:** Ömer TAŞKIN
+**Öğrenci No:** 2212721023
+**github linki** https://github.com/omertkn1/nakliye-rotasi-optimizasyon
+
+
 ## Proje Açıklaması
 
 Bu proje, bir lojistik firmasının rota seçimi sırasında yakıt tüketimi ve süreyi optimize etmesi için genetik algoritma kullanmaktadır. Senaryo 3'e göre geliştirilmiştir.
