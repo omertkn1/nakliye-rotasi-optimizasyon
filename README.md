@@ -36,8 +36,8 @@ pip install numpy matplotlib
 
 ### Dosya Yapısı
 ```
-ömer ödev1/
-├── genetik_algoritma_optimizasyon.ipynb  # Ana Jupyter notebook
+NakliyeOptimizasyon/
+├── genetikAlgoritma_optimizasyon.ipynb  # Ana Jupyter notebook
 └── README.md                              # Bu dosya
 ```
 
@@ -71,7 +71,7 @@ pip install numpy matplotlib
 
 1. Jupyter Notebook'u başlatın:
    ```bash
-   jupyter notebook genetik_algoritma_optimizasyon.ipynb
+   jupyter notebook genetikAlgoritma_optimizasyon.ipynb
    ```
 
 2. Tüm hücreleri sırayla çalıştırın (Cell → Run All veya Shift+Enter ile her hücreyi tek tek çalıştırın).
@@ -79,7 +79,6 @@ pip install numpy matplotlib
 3. Sonuçları inceleyin:
    - Fitness değerlerinin evrimi
    - Değişkenlerin evrimi
-   - 3D amaç fonksiyonu görselleştirmesi
    - Çözüm yolunun görselleştirilmesi
    - Detaylı analiz ve yorumlar
 
@@ -128,8 +127,6 @@ Genetik algoritma, verilen kısıtlar altında amaç fonksiyonunu optimize eder.
 - Kısıt kontrolü sonuçları
 - Fitness değerlerinin evrimi
 - Değişkenlerin evrimi
-- 3D görselleştirmeler
-
 gösterilir.
 
 ## Notlar
